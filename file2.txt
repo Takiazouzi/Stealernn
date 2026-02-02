@@ -1,0 +1,2 @@
+some text into file2 
+some text into file2 
